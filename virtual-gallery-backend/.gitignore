@@ -19,6 +19,14 @@ target/
 *.iml
 *.ipr
 
+# Maven / Gradle
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
